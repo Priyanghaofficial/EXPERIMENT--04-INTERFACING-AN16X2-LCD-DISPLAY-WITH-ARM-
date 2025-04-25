@@ -276,7 +276,7 @@ int main(void)
 
   Lcd_cursor(&lcd,1,4);
 
-  Lcd_string(&lcd, "HARISHA S");
+  Lcd_string(&lcd, "PRIYANGHA");
   /* USER CODE BEGIN 2 */
 
   /* USER CODE END 2 */
@@ -407,12 +407,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![image](https://github.com/user-attachments/assets/e2b21a0f-6edb-41d3-aa96-8b511ba83485)
+![Screenshot 2025-04-25 085300](https://github.com/user-attachments/assets/182765e0-5541-43a4-915c-2a0be5d6892c)
+
 
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![image](https://github.com/user-attachments/assets/0e2abb83-9df1-4c4e-a7f5-e552cefcb305)
+![image](https://github.com/user-attachments/assets/37915c4c-1570-4e2f-bccb-f12406460e2f)
+
 
 
 
